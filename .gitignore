@@ -1,0 +1,15 @@
+*.idea/
+*.bash_profile
+.python-version
+npm-debug.log
+__pycache__/
+certn_django/keys/*.pem
+.elasticbeanstalk
+.coverage
+.coverage*
+*.env
+!ci.env
+pyvenv.cfg
+Pipfile
+Pipfile.lock
+ecs-cli.asc
