@@ -1,5 +1,5 @@
 from helper_methods import get_lines_from_file
-from constants.day_01_constants import digits_and_string_numbers, string_to_num_dict, digits_only
+from constants.constants_01 import digits_and_string_numbers, string_to_num_dict, digits_only
 
 
 def get_number(line, reversed=False):
